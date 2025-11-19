@@ -1,10 +1,10 @@
+<h1 align="center">Kishan Koundinya's Profile</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=700&font=Times+New+Roman&weight=700&lines=MERN+Stack+Developer;Aspiring+Machine+Learning+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=700&font=Times+New+Roman&weight=700&lines=MERN+Stack+Developer;Machine+Learning+Enthusiast" />
 </p>
 
-
 ---
-
 ## 📊 GitHub Stats
 
 <table>
@@ -22,16 +22,24 @@
 
 ## 🧑‍💻 Coding Profiles
 
-### 🟧 **LeetCode**
+### 🟧 LeetCode
 <p align="center">
+  <a href="https://leetcode.com/Kishankoundinya/">
+    <img src="https://image.pngaaa.com/118/4868118-middle.png" width="120" />
+  </a>
+  <br><br>
   <img src="https://leetcard.jacoblin.cool/Kishankoundinya?theme=dark&font=Times%20New%20Roman&border=0" />
 </p>
 
 ---
 
-### 🟫 **CodeChef**
+### 🟫 CodeChef
 <p align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api/card?user=kkoundinya&theme=dark" />
+  <a href="https://www.codechef.com/users/kkoundinya">
+    <img src="https://image.pngaaa.com/134/6179134-middle.png" width="120" />
+  </a>
+  <br><br>
+  <img src="https://codechef-api.vercel.app/kkoundinya?theme=dark" />
 </p>
 
 ---
@@ -54,3 +62,4 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
