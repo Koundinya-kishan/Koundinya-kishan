@@ -24,16 +24,33 @@
 ## 🧑‍💻 Coding Profiles
 
 ---
+<div align="center">
 
-### <a href="https://leetcode.com/Kishankoundinya/">
-  <img src="https://miro.medium.com/0*xJCLQQRZv3XFMUd1" width="40" />
-</a> LeetCode
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Kishankoundinya?theme=dark&font=Times%20New%20Roman&border=0" />
-</p>
+<img src="https://leetcard.jacoblin.cool/Kishan_Koundinya?theme=dark&font=Karla&ext=contest" width="600"/>
+
+</div>
 
 ---
+
+### **Solved Problems Breakdown**
+
+| Difficulty | Solved | Total | Progress |
+|-----------|--------|--------|-----------|
+| **Easy** | 99 | 913 | ![Progress](https://progress-bar.dev/11/?width=200&color=40c463) |
+| **Medium** | 217 | 1951 | ![Progress](https://progress-bar.dev/11/?width=200&color=f39c12) |
+| **Hard** | 98 | 885 | ![Progress](https://progress-bar.dev/11/?width=200&color=d9534f) |
+
+---
+
+### **Contest Performance**
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Kishan_Koundinya?ext=contest&theme=dark" width="600"/>
+
+</div>
+
 
 ### <a href="https://codeforces.com/profile/Kishan_koundinya">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Codeforces_logo.svg" width="40" />
