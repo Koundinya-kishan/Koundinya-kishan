@@ -8,7 +8,16 @@
 
 ## 📊 GitHub Stats
 
-<span> <a href="https://github.com/KishanKoundinya"> <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanKoundinya&layout=compact&langs_count=8&theme=github_dark&border_color=404040" alt="Kishan's Github Top Languages" /> <img height="185" src="https://github-readme-stats.vercel.app/api?username=KishanKoundinya&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Kishan Koundinya Github Stats" /> </a> </span>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koundinya-kishan&layout=donut&theme=dark&hide_border=true&title_color=ffffff" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Koundinya-kishan&show_icons=true&theme=dark&hide_border=true&title_color=ffffff" />
+    </td>
+  </tr>
+</table>
 
 ---
 
