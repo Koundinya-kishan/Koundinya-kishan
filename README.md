@@ -23,51 +23,14 @@
 
 ## 🧑‍💻 Coding Profiles
 
----
-<div align="center">
-
-
-<img src="https://leetcard.jacoblin.cool/Kishan_Koundinya?theme=dark&font=Karla&ext=contest" width="600"/>
-
-</div>
-
----
-
-### **Solved Problems Breakdown**
-
-| Difficulty | Solved | Total | Progress |
-|-----------|--------|--------|-----------|
-| **Easy** | 99 | 913 | ![Progress](https://progress-bar.dev/11/?width=200&color=40c463) |
-| **Medium** | 217 | 1951 | ![Progress](https://progress-bar.dev/11/?width=200&color=f39c12) |
-| **Hard** | 98 | 885 | ![Progress](https://progress-bar.dev/11/?width=200&color=d9534f) |
-
----
-
-### **Contest Performance**
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Kishan_Koundinya?ext=contest&theme=dark" width="600"/>
-
-</div>
-
-
-### <a href="https://codeforces.com/profile/Kishan_koundinya">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Codeforces_logo.svg" width="40" />
-</a> Codeforces
-
-<p align="center">
-
-  <!-- Rating Graph -->
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Kishan_koundinya&theme=dark" />
-
-  <br><br>
-
-  <!-- Submission Activity Graph -->
-  <img src="https://codeforces-readme-stats.vercel.app/api/activity?username=Kishan_koundinya&theme=dark" />
-</p>
-
----
+<span>
+<a href="https://codeforces.com/profile/Kishan_koundinya">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Kishan_koundinya&theme=github_dark&force_username=true&border_color=404040" alt="Kishan Koundinya Codeforces stats"/>
+</a>
+<a href="https://leetcode.com/u/Kishankoundinya/">
+<img height="316" src="https://leetcard.jacoblin.cool/Kishankoundinya?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Kishan Koundinya Leetcode Stats"/>
+</a>
+</span>
 
 ## 🛠️ Technologies Worked With
 
