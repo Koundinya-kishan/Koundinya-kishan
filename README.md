@@ -23,25 +23,23 @@
 
 ## 🧑‍💻 Coding Profiles
 
-<a href="https://leetcode.com/Kishankoundinya/">
-    <img src="https://miro.medium.com/0*xJCLQQRZv3XFMUd1" width="40" />
-  </a> ####LeetCode
+### <a href="https://leetcode.com/Kishankoundinya/">
+  <img src="https://miro.medium.com/0*xJCLQQRZv3XFMUd1" width="40" />
+</a> LeetCode
+
 <p align="center">
-  
-  <br><br>
+  <br>
   <img src="https://leetcard.jacoblin.cool/Kishankoundinya?theme=dark&font=Times%20New%20Roman&border=0" />
 </p>
 
 ---
 
- <a href="https://www.codechef.com/users/kkoundinya">
-    <img src="https://yt3.googleusercontent.com/hN4RNGp3WbykRUGlxIauQ0Rtl55z6uaz1wjB7mllzWa1hGEvIUoQfPWmCBuAkr75HmiwXXi07a4=s900-c-k-c0x00ffffff-no-rj" width="40" />
-  </a> CodeChef
-<p align="center">
- 
-  <br><br>
+### <a href="https://www.codechef.com/users/kkoundinya">
+  <img src="https://yt3.googleusercontent.com/hN4RNGp3WbykRUGlxIauQ0Rtl55z6uaz1wjB7mllzWa1hGEvIUoQfPWmCBuAkr75HmiwXXi07a4=s900-c-k-c0x00ffffff-no-rj" width="40" />
+</a> CodeChef
 
-  <!-- Working CodeChef Stats Card -->
+<p align="center">
+  <br>
   <img src="https://codechef-readme-stats.vercel.app/kkoundinya?theme=dark" />
 </p>
 
