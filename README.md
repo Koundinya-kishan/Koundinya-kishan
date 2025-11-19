@@ -5,6 +5,7 @@
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <table>
@@ -22,7 +23,7 @@
 
 ## 🧑‍💻 Coding Profiles
 
-### 🟧 LeetCode
+### LeetCode
 <p align="center">
   <a href="https://leetcode.com/Kishankoundinya/">
     <img src="https://image.pngaaa.com/118/4868118-middle.png" width="120" />
@@ -33,13 +34,15 @@
 
 ---
 
-### 🟫 CodeChef
+## CodeChef
 <p align="center">
   <a href="https://www.codechef.com/users/kkoundinya">
     <img src="https://image.pngaaa.com/134/6179134-middle.png" width="120" />
   </a>
   <br><br>
-  <img src="https://codechef-api.vercel.app/kkoundinya?theme=dark" />
+
+  <!-- Working CodeChef Stats Card -->
+  <img src="https://codechef-readme-stats.vercel.app/kkoundinya?theme=dark" />
 </p>
 
 ---
@@ -62,4 +65,3 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
