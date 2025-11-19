@@ -1,22 +1,27 @@
-# ⭐ Kishan Koundinya’s Profile
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+I'm+Kishan+Koundinya;Java+Developer;MERN+Stack+Developer;Frontend+Developer;Machine+Learning+Enthusiast;Passionate+Coder+%26+Problem+Solver" />
 </p>
 
-Hi! I'm **Kishan Koundinya**, a passionate developer exploring Java, MERN stack, and modern web technologies.  
-I enjoy building interactive, efficient, and meaningful software solutions.
+---
+
+## 📊 GitHub Overview Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koundinya-kishan&show_icons=true&theme=radical)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koundinya-kishan&show_icons=true&theme=radical)
+## 🧑‍💻 Most Used Languages (GitHub)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koundinya-kishan&layout=compact&theme=radical)
 
 ---
 
 ## 🔗 Coding Profiles
+
+### 🟧 **LeetCode Profile**
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Kishankoundinya/)
+
+---
+
+### 🟫 **CodeChef Profile**
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kkoundinya)
 
 ---
