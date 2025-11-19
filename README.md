@@ -23,17 +23,31 @@
 
 ## 🧑‍💻 Coding Profiles
 
+---
+
+### <a href="https://leetcode.com/Kishankoundinya/">
+  <img src="https://miro.medium.com/0*xJCLQQRZv3XFMUd1" width="40" />
+</a> LeetCode
+
 <p align="center">
-  <br>
   <img src="https://leetcard.jacoblin.cool/Kishankoundinya?theme=dark&font=Times%20New%20Roman&border=0" />
 </p>
 
 ---
 
+### <a href="https://codeforces.com/profile/Kishan_koundinya">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Codeforces_logo.svg" width="40" />
+</a> Codeforces
 
 <p align="center">
-  <br>
-  <img src="https://codechef-readme-stats.vercel.app/kkoundinya?theme=dark" />
+
+  <!-- Rating Graph -->
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Kishan_koundinya&theme=dark" />
+
+  <br><br>
+
+  <!-- Submission Activity Graph -->
+  <img src="https://codeforces-readme-stats.vercel.app/api/activity?username=Kishan_koundinya&theme=dark" />
 </p>
 
 ---
