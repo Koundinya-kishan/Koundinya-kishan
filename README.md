@@ -23,8 +23,9 @@
 
 ## 🧑‍💻 Coding Profiles
 
-<a href="https://leetcode.com/Kishankoundinya/">
+
     <img src="https://image.pngaaa.com/118/4868118-middle.png" width="40" /> LeetCode
+    <a href="https://leetcode.com/Kishankoundinya/">
      <p align="center">
       <br><br>
       <img src="https://leetcard.jacoblin.cool/Kishankoundinya?theme=dark&font=Times%20New%20Roman&border=0" />
