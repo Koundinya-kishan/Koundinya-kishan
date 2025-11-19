@@ -23,14 +23,14 @@
 
 ## 🧑‍💻 Coding Profiles
 
-<img src="https://image.pngaaa.com/134/6179134-middle.png" width="20" /> ### LeetCode
-<p align="center">
-  <a href="https://leetcode.com/Kishankoundinya/">
-    <img src="https://image.pngaaa.com/118/4868118-middle.png" width="120" />
-  </a>
-  <br><br>
-  <img src="https://leetcard.jacoblin.cool/Kishankoundinya?theme=dark&font=Times%20New%20Roman&border=0" />
-</p>
+<a href="https://leetcode.com/Kishankoundinya/">
+    <img src="https://image.pngaaa.com/118/4868118-middle.png" width="40" /> LeetCode
+     <p align="center">
+      <br><br>
+      <img src="https://leetcard.jacoblin.cool/Kishankoundinya?theme=dark&font=Times%20New%20Roman&border=0" />
+     </p>
+</a>
+  
 
 ---
 
