@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 Coding Profiles
 
-### LeetCode
+<img src="https://image.pngaaa.com/134/6179134-middle.png" width="20" /> ### LeetCode
 <p align="center">
   <a href="https://leetcode.com/Kishankoundinya/">
     <img src="https://image.pngaaa.com/118/4868118-middle.png" width="120" />
